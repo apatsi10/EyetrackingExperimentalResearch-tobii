@@ -9,5 +9,5 @@ To use project you need:
 (c) More python libraries (you can find in: requirements.txt),
 (d) python 3.8
 
-For project to run properly you must have py files and the two images in the same directory.
+For project to run properly you must have py files and the two images in the same directory. Then just run main.py.
  
