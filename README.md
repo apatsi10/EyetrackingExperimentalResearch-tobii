@@ -12,3 +12,4 @@ synchronized watching and eye tracking.
 For project to run properly you must have py files and the two images in the same directory. Then just run main.py.
  
  ## Attribution
+- rokr
