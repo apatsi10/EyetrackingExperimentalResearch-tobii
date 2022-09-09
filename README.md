@@ -12,6 +12,4 @@ synchronized watching and eye tracking.
 For project to run properly you must have py files and the two images in the same directory. Then just run main.py.
  
  ## Attribution
-For heatmap production code is heavilly based on takyamamoto
-/
-Fixation-Densitymap
+For heatmap production code is heavilly based on [takyamamoto/Fixation-Densitymap](https://github.com/takyamamoto/Fixation-Densitymap)
