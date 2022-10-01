@@ -3212,6 +3212,3 @@ if __name__ == "__main__":
     root.mainloop()
 
 
-# Oles oi syntetagmenes na ginoun gia kathe othoni
-# Organosi ton directories
-# poli simantiko na mporo na kalo ton eye tracker manager apo opoiadipote siskeyi
