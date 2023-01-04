@@ -91,7 +91,7 @@ tobii-research==1.9.0
 tqdm==4.64.0	
 typing-extensions==4.3.0	
 urllib3==1.26.12	
-wheel==0.37.1	
+wheel==0.38.1	
 wrapt==1.14.1	
 wxPython==4.2.0	
 yarg==0.1.9	
